@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615405968412",
+    "project_id": "manish-7ffb9",
+    "storage_bucket": "manish-7ffb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615405968412:android:b141435c24d3c90dbfd3d9",
+        "android_client_info": {
+          "package_name": "com.monsteryak.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615405968412-ffalc51fc153emb239n1a22qoog0a9e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPm_k7iPd9KvzT87_tUojaCmrqz6Z-5m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615405968412-ffalc51fc153emb239n1a22qoog0a9e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
